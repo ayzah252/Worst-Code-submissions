@@ -1,0 +1,2 @@
+# Worst Code submissions
+ code
